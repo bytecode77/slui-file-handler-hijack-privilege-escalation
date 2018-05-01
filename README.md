@@ -3,7 +3,7 @@
 | Exploit Information |                                   |
 |:------------------- |:--------------------------------- |
 | Publish Date        | 15.01.2018                        |
-| Patched             | -                                 |
+| Patched             | Windows 10 RS4 (17134)            |
 | Target              | Microsoft Windows                 |
 | exploit-db          | N/A                               |
 | CVE                 | N/A                               |
