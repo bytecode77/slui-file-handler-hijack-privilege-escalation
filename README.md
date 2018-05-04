@@ -3,7 +3,7 @@
 | Exploit Information |                                   |
 |:------------------- |:--------------------------------- |
 | Publish Date        | 15.01.2018                        |
-| Patched             |                                   |
+| Patched             | -                                 |
 | Target              | Microsoft Windows                 |
 | exploit-db          | N/A                               |
 | CVE                 | N/A                               |
