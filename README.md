@@ -5,7 +5,7 @@
 | Publish Date        | 15.01.2018                        |
 | Patched             | -                                 |
 | Target              | Microsoft Windows                 |
-| exploit-db          | N/A                               |
+| exploit-db          | [44830](https://www.exploit-db.com/exploits/44830/) |
 | CVE                 | N/A                               |
 | Versions            | Windows 8-10, x86 and x64         |
 
