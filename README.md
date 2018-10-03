@@ -3,7 +3,7 @@
 | Exploit Information |                                   |
 |:------------------- |:--------------------------------- |
 | Publish Date        | 15.01.2018                        |
-| Patched             | -                                 |
+| Patched             | Windows 10 (17763)                |
 | Target              | Microsoft Windows                 |
 | exploit-db          | [44830](https://www.exploit-db.com/exploits/44830/) |
 | CVE                 | N/A                               |
