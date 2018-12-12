@@ -32,6 +32,10 @@ Compiled binaries:
 
 [![](https://bytecode77.com/images/shared/fileicons/zip.png) SluiFileHandlerHijackLPE rev1 Binaries.zip](https://bytecode77.com/downloads/hacking/exploits/uac-bypass/SluiFileHandlerHijackLPE%20rev1%20Binaries.zip)
 
+## Compiling from source
+
+To compile from source, use Visual Studio 2017 Community edition. When installing, select all boxes for `Windows 10 SDK`, under the `Individual Components` tab. Then, when building the project, select the `Project` tab, then `Properties`. Then, under `General`, in the `SDK Version` option, select **10.0.15063.0**, and then build your project.
+
 ## Project Page
 
 [![](https://bytecode77.com/images/shared/favicon16.png) bytecode77.com/hacking/exploits/uac-bypass/slui-file-handler-hijack-privilege-escalation](https://bytecode77.com/hacking/exploits/uac-bypass/slui-file-handler-hijack-privilege-escalation)
