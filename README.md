@@ -23,7 +23,7 @@ When everything worked correctly, a cmd.exe should be spawned with high IL.
 
 Compiled binaries:
 
-[![](http://bytecode77.com/public/fileicons/zip.png) SluiFileHandlerHijackLPE.zip](https://bytecode77.com/SluiFileHandlerHijackLPE.zip)
+[![](http://bytecode77.com/public/fileicons/zip.png) SluiFileHandlerHijackLPE.zip](https://bytecode77.com/downloads/SluiFileHandlerHijackLPE.zip)
 
 ## Project Page
 
