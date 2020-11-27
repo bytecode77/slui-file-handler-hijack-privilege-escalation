@@ -2,7 +2,7 @@
 
 | Exploit Information |                                   |
 |:------------------- |:--------------------------------- |
-| Publish Date        | 15.01.2018                        |
+| Date                | 15.01.2018                        |
 | Patched             | -                                 |
 | exploit-db          | [44830](https://www.exploit-db.com/exploits/44830/) |
 | Tested on           | Windows 8-10, x86/x64 independent |
@@ -24,6 +24,7 @@ When everything worked correctly, a cmd.exe should be spawned with high IL.
 Compiled binaries:
 
 [![](http://bytecode77.com/public/fileicons/zip.png) SluiFileHandlerHijackLPE.zip](https://bytecode77.com/downloads/SluiFileHandlerHijackLPE.zip)
+(**ZIP Password:** bytecode77)
 
 ## Project Page
 
