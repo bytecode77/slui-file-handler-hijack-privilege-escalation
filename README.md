@@ -3,7 +3,7 @@
 | Exploit Information |                                   |
 |:------------------- |:--------------------------------- |
 | Date                | 15.01.2018                        |
-| Patched             | -                                 |
+| Patched             | Windows 10 20H1 (19041)           |
 | exploit-db          | [44830](https://www.exploit-db.com/exploits/44830/) |
 | Tested on           | Windows 8-10, x86/x64 independent |
 
